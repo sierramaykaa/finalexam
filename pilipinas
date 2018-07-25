@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Coron Island",
-    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/thunder.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/coron.jpg",
     "distance": 726,
     "unit": "km",
     "lat": 11.8973832,
@@ -155,7 +155,7 @@
     {
     "id": 305,
     "name": "Mines View Park",
-    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/mines.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/mines.JPG",
     "distance": "73.1",
     "unit": "km",
      "lat":16.4195775,
