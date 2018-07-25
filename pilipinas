@@ -1,0 +1,189 @@
+[
+  {
+    "id": 145,
+    "name": " Subic Bay",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/subic.jpg",
+    "distance": 262,
+    "unit": "km",
+    "lat": 14.7852827,
+    "lng":120.1587725
+  },
+  {
+    "id": 148,
+    "name": "Panglao Island",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/tangadan.jpeg",
+    "distance": "1,238",
+    "unit": "km",
+     "lat": 9.5949512,
+    "lng": 123.7247152
+  },
+  {
+    "id": 201,
+    "name": "Coron Island",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/thunder.jpg",
+    "distance": 726,
+    "unit": "km",
+    "lat": 11.8973832,
+    "lng": 120.1641873
+  }, 
+  {
+    "id": 205,
+    "name": "Taal Batangas",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/taal.jpg",
+    "distance":387,
+    "unit":"km",
+    "lat": 14.0112735,
+    "lng": 120.9889361
+  },
+  {
+    "id": 210,
+    "name": "Honda Bay Island",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/honda.jpg",
+    "distance": "1,077",
+    "unit": "km",
+   "lat": 9.89408621,
+    "lng": 118.7625623
+  },
+  {
+    "id": 211,
+    "name": "Kawasan Falls",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/kawasan.jpg",
+    "distance": "1,175",
+    "unit": "km",
+     "lat": 9.8023606,
+    "lng": 123.3719641
+  },
+   {
+    "id": 231,
+    "name": "Mayon Volcano ",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/mayon.jpg",
+    "distance": 771,
+    "unit": "km",
+     "lat": 13.2548525,
+    "lng":123.6773576
+  },
+   {
+    "id": 241,
+    "name": "Magellan's Cross",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/magellan.jpg",
+    "distance": "1,133",
+    "unit": "km",
+     "lat": 10.2935728,
+    "lng":123.8997598
+  },
+   {
+    "id": 251,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/banaue.jpg",
+    "distance": 247,
+    "unit": "km",
+     "lat": 16.9238778,
+    "lng":121.0534618
+  },
+   {
+    "id": 261,
+    "name": "Calamian Island",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/calamian.jpg",
+    "distance": 728,
+    "unit": "km",
+     "lat": 12.0211607,
+    "lng":120.1553826
+  },
+   {
+    "id": 271,
+    "name": "Tubbataha Reef",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/reef.jpg",
+    "distance": "1,089",
+    "unit": "km",
+     "lat": 9.7359392,
+    "lng":118.7468188
+  },
+   {
+    "id": 281,
+    "name": "Fort San Pedro Cebu",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/fort.jpg",
+    "distance": "1,132",
+    "unit": "km",
+     "lat":10.2931743,
+    "lng":123.9036745
+  },
+   {
+    "id": 291,
+    "name": "Mount Apo ",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/apo.jpg",
+    "distance": "1,906",
+    "unit": "km",
+     "lat":6.9874772,
+    "lng":125.2622416
+  },
+   {
+    "id": 301,
+    "name": "White Island, Camiguin",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/white.jpg",
+    "distance": "1,329",
+    "unit": "km",
+     "lat":9.2579858,
+    "lng":124.653366
+  },
+  {
+    "id": 302,
+    "name": "Mount Pulag",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/pulag.jpg",
+    "distance": 138,
+    "unit": "km",
+     "lat":16.5975201,
+    "lng":120.8904118
+  },
+    {
+    "id": 303,
+    "name": "Cagsawa Ruins",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/ruins.jpg",
+    "distance": 769,
+    "unit": "km",
+     "lat":13.1660107,
+    "lng":123.6989335
+  },
+    {
+    "id": 304,
+    "name": "Villa Escudero",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/villa.jpeg",
+    "distance": 379,
+    "unit": "km",
+     "lat":13.9956795,
+    "lng":121.3408983
+  },
+    {
+    "id": 305,
+    "name": "Mines View Park",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/mines.jpg",
+    "distance": "73.1",
+    "unit": "km",
+     "lat":16.4195775,
+    "lng":120.6257029
+  },
+    {
+    "id": 306,
+    "name": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/bora.jpg",
+    "distance": 721,
+    "unit": "km",
+     "lat":11.9693649,
+    "lng":121.8922093
+  },
+    {
+    "id": 307,
+    "name": "Chocolate Hills, Bohol",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/bohol.jpg",
+    "distance": 1204,
+    "unit": "km",
+     "lat":9.8297288,
+    "lng":124.1309208
+  },
+   {
+    "id": 313,
+    "name": "House",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/finalexam/master/images/house.png",
+     "lat": 16.6921704,
+    "lng":120.3370037
+  }
+]
